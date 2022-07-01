@@ -16,7 +16,7 @@
 ## Verifying the data in PgAdmin
 
 Movies Query
-![This is an image](https://github.com/Stookhy/Movies-ETL/blob/main/movies_query.png?raw=true)
+![This is an image](https://github.com/Stookhy/Movies-ETL/blob/main/Resources/movies_query.png?raw=true)
 
 Ratings Query
 ![This is an image](https://github.com/Stookhy/Movies-ETL/blob/main/ratings_query.png?raw=true)
