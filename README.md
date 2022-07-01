@@ -13,6 +13,8 @@
 
     The purpose is to create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. Refactor the code to create one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL database
 
+## Verifying the data in PgAdmin
+
 Movies Query
 ![This is an image](https://github.com/Stookhy/Movies-ETL/blob/main/movies_query.png?raw=true)
 
