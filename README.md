@@ -12,3 +12,6 @@
 ## Purpose and Analysis
 
     The purpose is to create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. Refactor the code to create one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL database
+
+Ratings 
+![This is an image](https://github.com/Stookhy/Movies-ETL/blob/main/ratings_query.png?raw=true)
